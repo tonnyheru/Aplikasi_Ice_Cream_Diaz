@@ -1,0 +1,17 @@
+{
+  "name": "Diaz Ice Cream POS",
+  "short_name": "Diaz POS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFBF2",
+  "theme_color": "#FF5376",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/sundae_chocolate.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
